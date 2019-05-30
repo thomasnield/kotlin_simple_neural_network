@@ -1,6 +1,6 @@
 # Kotlin Simple Neural Network
 
-PLEASE NOTE: This project has been [forked and moved here](https://github.com/thomasnield/kotlin-machine-learning-demos/) to showcase machine learning algorithms beyond neural networks.
+**PLEASE NOTE: This project has been [forked and moved here](https://github.com/thomasnield/kotlin-machine-learning-demos/) to showcase machine learning algorithms beyond neural networks.**
 
 This is a simple neural network application that will suggest a LIGHT or DARK font for a given background color.
 
